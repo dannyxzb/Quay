@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "fix/issue-227-4-16-stop-the-cash-out-poller-from-blind",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "fix/issue-227-4-16-stop-the-cash-out-poller-from-blind": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "fix/issue-227-4-16-stop-the-cash-out-poller-from-blind",
+    "origin"
+  ]
+}
